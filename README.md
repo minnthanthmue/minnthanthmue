@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="![Uploading banner.png…]()
-" alt="Minn Thant Hmue" width="100%" />
-</p>
 
 <h1 align="center">Hey, I'm Minn Thant Hmue👋</h1>
 
